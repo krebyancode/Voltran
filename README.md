@@ -1,4 +1,4 @@
 # Voltran
-HTML, CSS
+Voltran Blog Page with HTML, CSS
 
 https://krebyancode.github.io/Voltran/
